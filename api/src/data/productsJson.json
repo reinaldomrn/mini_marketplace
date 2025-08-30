@@ -22,5 +22,325 @@
     "isAvailable": true,
     "category": "bag",
     "image": "/img/ac990.jpg"
+  },
+  {
+    "id": "p4",
+    "name": "Guantes GN103",
+    "price": 62.5,
+    "isAvailable": true,
+    "category": "gloves",
+    "image": "/img/gn103.jpg"
+  },
+  {
+    "id": "p5",
+    "name": "Casco CS434",
+    "price": 82.0,
+    "isAvailable": true,
+    "category": "headgear",
+    "image": "/img/cs434.jpg"
+  },
+  {
+    "id": "p6",
+    "name": "Bolsa AC991",
+    "price": 26.0,
+    "isAvailable": false,
+    "category": "bag",
+    "image": "/img/ac991.jpg"
+  },
+  {
+    "id": "p7",
+    "name": "Botas BT210",
+    "price": 95.0,
+    "isAvailable": true,
+    "category": "footwear",
+    "image": "/img/bt210.jpg"
+  },
+  {
+    "id": "p8",
+    "name": "Lentes LT500",
+    "price": 45.5,
+    "isAvailable": true,
+    "category": "eyewear",
+    "image": "/img/lt500.jpg"
+  },
+  {
+    "id": "p9",
+    "name": "Rodilleras RD300",
+    "price": 33.3,
+    "isAvailable": false,
+    "category": "protection",
+    "image": "/img/rd300.jpg"
+  },
+  {
+    "id": "p10",
+    "name": "Guantes GN104",
+    "price": 60.0,
+    "isAvailable": true,
+    "category": "gloves",
+    "image": "/img/gn104.jpg"
+  },
+  {
+    "id": "p11",
+    "name": "Casco CS435",
+    "price": 78.9,
+    "isAvailable": false,
+    "category": "headgear",
+    "image": "/img/cs435.jpg"
+  },
+  {
+    "id": "p12",
+    "name": "Bolsa AC992",
+    "price": 23.9,
+    "isAvailable": true,
+    "category": "bag",
+    "image": "/img/ac992.jpg"
+  },
+  {
+    "id": "p13",
+    "name": "Botas BT211",
+    "price": 99.9,
+    "isAvailable": false,
+    "category": "footwear",
+    "image": "/img/bt211.jpg"
+  },
+  {
+    "id": "p14",
+    "name": "Lentes LT501",
+    "price": 47.0,
+    "isAvailable": true,
+    "category": "eyewear",
+    "image": "/img/lt501.jpg"
+  },
+  {
+    "id": "p15",
+    "name": "Rodilleras RD301",
+    "price": 34.0,
+    "isAvailable": true,
+    "category": "protection",
+    "image": "/img/rd301.jpg"
+  },
+  {
+    "id": "p16",
+    "name": "Guantes GN105",
+    "price": 61.2,
+    "isAvailable": false,
+    "category": "gloves",
+    "image": "/img/gn105.jpg"
+  },
+  {
+    "id": "p17",
+    "name": "Casco CS436",
+    "price": 80.5,
+    "isAvailable": true,
+    "category": "headgear",
+    "image": "/img/cs436.jpg"
+  },
+  {
+    "id": "p18",
+    "name": "Bolsa AC993",
+    "price": 25.0,
+    "isAvailable": false,
+    "category": "bag",
+    "image": "/img/ac993.jpg"
+  },
+  {
+    "id": "p19",
+    "name": "Botas BT212",
+    "price": 97.5,
+    "isAvailable": true,
+    "category": "footwear",
+    "image": "/img/bt212.jpg"
+  },
+  {
+    "id": "p20",
+    "name": "Lentes LT502",
+    "price": 46.2,
+    "isAvailable": false,
+    "category": "eyewear",
+    "image": "/img/lt502.jpg"
+  },
+  {
+    "id": "p21",
+    "name": "Rodilleras RD302",
+    "price": 32.8,
+    "isAvailable": true,
+    "category": "protection",
+    "image": "/img/rd302.jpg"
+  },
+  {
+    "id": "p22",
+    "name": "Guantes GN106",
+    "price": 63.0,
+    "isAvailable": true,
+    "category": "gloves",
+    "image": "/img/gn106.jpg"
+  },
+  {
+    "id": "p23",
+    "name": "Casco CS437",
+    "price": 81.3,
+    "isAvailable": false,
+    "category": "headgear",
+    "image": "/img/cs437.jpg"
+  },
+  {
+    "id": "p24",
+    "name": "Bolsa AC994",
+    "price": 27.5,
+    "isAvailable": true,
+    "category": "bag",
+    "image": "/img/ac994.jpg"
+  },
+  {
+    "id": "p25",
+    "name": "Botas BT213",
+    "price": 96.0,
+    "isAvailable": false,
+    "category": "footwear",
+    "image": "/img/bt213.jpg"
+  },
+  {
+    "id": "p26",
+    "name": "Lentes LT503",
+    "price": 48.0,
+    "isAvailable": true,
+    "category": "eyewear",
+    "image": "/img/lt503.jpg"
+  },
+  {
+    "id": "p27",
+    "name": "Rodilleras RD303",
+    "price": 35.0,
+    "isAvailable": false,
+    "category": "protection",
+    "image": "/img/rd303.jpg"
+  },
+  {
+    "id": "p28",
+    "name": "Guantes GN107",
+    "price": 64.5,
+    "isAvailable": true,
+    "category": "gloves",
+    "image": "/img/gn107.jpg"
+  },
+  {
+    "id": "p29",
+    "name": "Casco CS438",
+    "price": 83.0,
+    "isAvailable": true,
+    "category": "headgear",
+    "image": "/img/cs438.jpg"
+  },
+  {
+    "id": "p30",
+    "name": "Bolsa AC995",
+    "price": 28.0,
+    "isAvailable": false,
+    "category": "bag",
+    "image": "/img/ac995.jpg"
+  },
+  {
+    "id": "p31",
+    "name": "Botas BT214",
+    "price": 98.5,
+    "isAvailable": true,
+    "category": "footwear",
+    "image": "/img/bt214.jpg"
+  },
+  {
+    "id": "p32",
+    "name": "Lentes LT504",
+    "price": 49.5,
+    "isAvailable": false,
+    "category": "eyewear",
+    "image": "/img/lt504.jpg"
+  },
+  {
+    "id": "p33",
+    "name": "Rodilleras RD304",
+    "price": 36.0,
+    "isAvailable": true,
+    "category": "protection",
+    "image": "/img/rd304.jpg"
+  },
+  {
+    "id": "p34",
+    "name": "Guantes GN108",
+    "price": 65.0,
+    "isAvailable": false,
+    "category": "gloves",
+    "image": "/img/gn108.jpg"
+  },
+  {
+    "id": "p35",
+    "name": "Casco CS439",
+    "price": 84.5,
+    "isAvailable": true,
+    "category": "headgear",
+    "image": "/img/cs439.jpg"
+  },
+  {
+    "id": "p36",
+    "name": "Bolsa AC996",
+    "price": 29.5,
+    "isAvailable": true,
+    "category": "bag",
+    "image": "/img/ac996.jpg"
+  },
+  {
+    "id": "p37",
+    "name": "Botas BT215",
+    "price": 100.0,
+    "isAvailable": false,
+    "category": "footwear",
+    "image": "/img/bt215.jpg"
+  },
+  {
+    "id": "p38",
+    "name": "Lentes LT505",
+    "price": 50.0,
+    "isAvailable": true,
+    "category": "eyewear",
+    "image": "/img/lt505.jpg"
+  },
+  {
+    "id": "p39",
+    "name": "Rodilleras RD305",
+    "price": 37.5,
+    "isAvailable": false,
+    "category": "protection",
+    "image": "/img/rd305.jpg"
+  },
+  {
+    "id": "p40",
+    "name": "Guantes GN109",
+    "price": 66.5,
+    "isAvailable": true,
+    "category": "gloves",
+    "image": "/img/gn109.jpg"
+  },
+  {
+    "id": "p41",
+    "name": "Casco CS440",
+    "price": 85.0,
+    "isAvailable": false,
+    "category": "headgear",
+    "image": "/img/cs440.jpg"
+  },
+  {
+    "id": "p42",
+    "name": "Bolsa AC997",
+    "price": 30.0,
+    "isAvailable": true,
+    "category": "bag",
+    "image": "/img/ac997.jpg"
+  },
+  {
+    "id": "p43",
+    "name": "Botas BT216",
+    "price": 101.5,
+    "isAvailable": true,
+    "category": "footwear",
+    "image": "/img/bt216.jpg"
   }
 ]

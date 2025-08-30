@@ -44,15 +44,16 @@ class ProductRepository {
       const orderObject = {
         [sort]: order,
       };
-      const totalPage = await this.productModel.countDocuments(filters)
+      const totalRows = await this.productModel.countDocuments(filters)
       const numPage = page ?? 1;
       const maxRow = limit ?? 3
+      const totalPage = Math.ceil(totalRows / maxRow);
       const query = await this.productModel
         .find(filters)
         .sort(orderObject)
         .skip((numPage - 1) * maxRow)
         .limit(maxRow);
-      return { ...query, page: numPage, limit: maxRow, totalPage };
+      return { products: [...query], page: numPage, limit: maxRow, totalPage };
     } catch (error) {
       throw new Error(JSON.stringify(error));
     }

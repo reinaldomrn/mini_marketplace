@@ -1,4 +1,5 @@
 import express, {Application} from 'express';
+import cors from 'cors'
 import productRoutes from "../routes/product.router";
 import connectDataBase from '../database/config';
 
@@ -12,7 +13,12 @@ class Server {
     this.port = process.env.PORT || 3001;
     this.productsPatch = '/api/products'
     connectDataBase()
+    this.middlewares();
     this.routes();
+  }
+
+  private middlewares() {
+    this.app.use(cors())
   }
 
   private routes() {
